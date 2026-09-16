@@ -41,8 +41,8 @@ Office desk, which price is R$ 650.50
 
 RECORD: 23 years old, code 7777 and gender: M
 
-Measure with eight decimal places: 53.23456700
-Rounded (three decimal places): 53.235
+Measure with eight decimal places: 53,23456700
+Rounded (three decimal places): 53,235
 US decimal point: 53.235
 ```
 
